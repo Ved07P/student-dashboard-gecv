@@ -1,0 +1,7 @@
+[
+  { "name": "Power Electronics", "code": "3150910", "credits": 5, "faculty": "R. K. Sharma" },
+  { "name": "Signals and Systems", "code": "3150911", "credits": 4, "faculty": "S. P. Desai" },
+  { "name": "Microprocessor & Microcontroller", "code": "3150912", "credits": 5, "faculty": "A. M. Patel" },
+  { "name": "Electrical Machines-II", "code": "3150913", "credits": 5, "faculty": "M. N. Shah" }
+]
+

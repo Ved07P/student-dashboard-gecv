@@ -1,0 +1,15 @@
+{
+  "Monday": [
+    {"subject": "Power Electronics", "code": "3150910", "room": "102"},
+    {"subject": "Signals & Systems", "code": "3150911", "room": "105"},
+    {"subject": "EM-II Lab", "code": "3150913", "room": "Lab 1"},
+    {"subject": "EM-II Lab", "code": "3150913", "room": "Lab 1"}
+  ],
+  "Tuesday": [
+    {"subject": "Microprocessor", "code": "3150912", "room": "103"},
+    {"subject": "EM-II", "code": "3150913", "room": "104"},
+    {"subject": "PE Lab", "code": "3150910", "room": "Lab 3"},
+    {"subject": "PE Lab", "code": "3150910", "room": "Lab 3"}
+  ]
+}
+
